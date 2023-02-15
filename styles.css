@@ -75,6 +75,11 @@ body {
   margin: 0 10em;
 }
 
+.secundario__botao {
+  display: inline-block;
+  margin-top: 1em;
+}
+
 .descricao__titulo {
   font-weight: 700;
   font-size: 48px;
@@ -84,4 +89,8 @@ body {
 
 .descricao__texto {
   color: var(--cinza-secundario);
+}
+
+.container__descricao {
+  padding: 2em;
 }
